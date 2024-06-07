@@ -19,7 +19,9 @@ public class Application {
         Utente utente1 = new Utente("Mario", "Rossi", LocalDate.of(1998,8, 12), "11111111");
         utenteDAO.saveUtente(utente1);
     }
+
 }
+
 
 
 
